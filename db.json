@@ -1,0 +1,109 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "title": "Wireless Headphones",
+      "description": "Noise-canceling over-ear headphones with long battery life.",
+      "price": 250,
+      "image": "https://picsum.photos/400/500"
+    },
+    {
+      "id": "2",
+      "title": "Smart Watch",
+      "description": "Track your fitness, notifications, and sleep with style.",
+      "price": 199,
+      "image": "https://picsum.photos/400/500"
+    },
+    {
+      "id": "3",
+      "title": "E-Reader",
+      "description": "Compact e-reader with adjustable backlight and long battery life.",
+      "price": 120,
+      "image": "https://picsum.photos/400/500"
+    },
+    {
+      "id": "4",
+      "title": "Gaming Chair",
+      "description": "Ergonomic chair with lumbar support for long gaming sessions.",
+      "price": 350,
+      "image": "https://picsum.photos/400/500"
+    },
+    {
+      "id": "5",
+      "title": "Instant Camera",
+      "description": "Capture your favorite moments instantly with retro-style photos.",
+      "price": 80,
+      "image": "https://picsum.photos/400/500"
+    },
+    {
+      "id": "6",
+      "title": "Bluetooth Speaker",
+      "description": "Portable speaker with rich bass and waterproof design.",
+      "price": 150,
+      "image": "https://picsum.photos/400/500"
+    },
+    {
+      "id": "7",
+      "title": "Fitness Tracker",
+      "description": "Monitor your heart rate, steps, and calories burned daily.",
+      "price": 70,
+      "image": "https://picsum.photos/400/500"
+    },
+    {
+      "id": "8",
+      "title": "Laptop Stand",
+      "description": "Adjustable stand to improve posture and cooling for laptops.",
+      "price": 60,
+      "image": "https://picsum.photos/400/500"
+    },
+    {
+      "id": "9",
+      "title": "Coffee Maker",
+      "description": "Brew fresh coffee at home with programmable settings.",
+      "price": 130,
+      "image": "https://picsum.photos/400/500"
+    },
+    {
+      "id": "10",
+      "title": "Air Purifier",
+      "description": "Keep your indoor air clean and fresh with HEPA filter.",
+      "price": 220,
+      "image": "https://picsum.photos/400/500"
+    },
+    {
+      "id": "11",
+      "title": "Noise-Canceling Earbuds",
+      "description": "Compact earbuds with powerful noise cancellation.",
+      "price": 180,
+      "image": "https://picsum.photos/400/500"
+    },
+    {
+      "title": "Smart Thermostat",
+      "description": "Control your home temperature remotely and save energy.",
+      "price": 0,
+      "image": "https://picsum.photos/400/500",
+      "id": "12"
+    },
+    {
+      "id": "13",
+      "title": "Portable Hard Drive",
+      "description": "1TB USB-C portable hard drive for all your backups.",
+      "price": 100,
+      "image": "https://picsum.photos/400/500"
+    },
+    {
+      "id": "14",
+      "title": "LED Desk Lamp",
+      "description": "Dimmable lamp with color temperature adjustment.",
+      "price": 55,
+      "image": "https://picsum.photos/400/500"
+    },
+    {
+      "id": "15",
+      "title": "Travel Backpack",
+      "description": "Waterproof backpack with multiple compartments for travel.",
+      "price": 90,
+      "image": "https://picsum.photos/400/500"
+    }
+  ]
+}
